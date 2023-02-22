@@ -1,0 +1,4 @@
+protobuf==3.0.0
+pycryptodome==3.9.9
+loguru~=0.4.1
+locust~=2.14.2

@@ -1,0 +1,9 @@
+# Created by pytest automatically.
+*.pyc
+*.apk
+*.rar
+*.md
+*.html
+/.idea/*
+/scripts/.pytest_cache/*
+/venv/*
